@@ -115,7 +115,7 @@ class Fighter extends Sprite {
     };
     this.color = color;
     this.isAttacking;
-    this.health = 50;
+    this.health = 40;
     this.framesCurrent = 0;
     this.framesElapsed = 0;
     this.framesHold = 5;
